@@ -1,11 +1,13 @@
 # openscaser
 OPENSCAD library for press and fit laser cutting
 
+![export_light](../img/export_light.jpg)
+
+![export_press_and_fit](./img/export_press_and_fit.jpg)
+
 
 Contains 3 files for the moment:
 * `config.scad` contains all the parametric variable of the project.
-
-    _(TODO: add screenshot)_
 
 * `slots.scad` contains all the module to generate parametric slots and holes.
 
